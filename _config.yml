@@ -9,7 +9,9 @@
 title: markedupcode
 email: markedupcode@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My fist attempt at web development.
+  A system for marking or tagging a document that indicates its logical structure 
+  (as paragraphs) and gives instructions for its layout on the page especially 
+  for electronic transmission and display.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ehealthdevs
